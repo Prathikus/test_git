@@ -1,0 +1,1 @@
+print("Sin duri blyat na sanjike")
